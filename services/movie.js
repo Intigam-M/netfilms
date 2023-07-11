@@ -1,12 +1,6 @@
 const BASE_URL = "https://api.themoviedb.org/3";
 
-async function delay(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
 async function fetchData(path, { query = "" } = {}) {
-  await delay(1000);
-
   try {
     const res = await fetch(
       `${BASE_URL}${path}?api_key=${process.env.THE_MOVIE_DB_API_KEY}&${query}`
