@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Live Demo
 
-You can access the live demo of GEGA at the following URL: [https://netfilms-project.netlify.app](https://netfilms-project.netlify.app)
+You can access the live demo of Netfilms at the following URL: [https://netfilms-project.netlify.app](https://netfilms-project.netlify.app)
 
 ## Getting Started
 
