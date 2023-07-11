@@ -1,6 +1,6 @@
 # Netfilms
 
-![Netfilms](https://github.com/Intigam-M/netfilms/blob/main/netfilms.png)
+![Netfilms](https://github.com/Intigam-M/netfilms/blob/main/netfilms-home.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
